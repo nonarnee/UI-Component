@@ -59,4 +59,6 @@ details[open] summary:after {
   content: 'close';
 }
 
-/* do something here */
+details[open] p {
+  display: block;
+}
